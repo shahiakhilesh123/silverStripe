@@ -1,0 +1,4 @@
+# Define extensions for the ProductAdmin class (if needed)
+App\Admin\ProductAdmin:
+  extensions:
+    - App\Extensions\ProductAdminExtension

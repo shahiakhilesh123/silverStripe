@@ -1,0 +1,4 @@
+SilverStripe\Admin\ModelAdmin:
+  extensions:
+    - App\Admin\ProductAdmin
+    - App\Admin\ProductCategoryAdmin
